@@ -1,0 +1,11 @@
+*{
+    margin:0px;
+    padding:0px
+}
+.login{
+    background-color: white;
+    color: black;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
