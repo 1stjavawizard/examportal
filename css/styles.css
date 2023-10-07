@@ -4,4 +4,16 @@
 }
 body {
   background-color: #6abca1;
+  text-align: center;
+  line-height: 2.5;
+  font-style: sans-serif;
+}
+header {
+  /* border-top: 5px solid #1098ad;
+  border-bottom: 5px solid #1098ad; */
+  /* height: 50px; */
+}
+
+article {
+  font-size: 25px;
 }
